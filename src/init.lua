@@ -10,6 +10,9 @@ local org = require("organizador")
 local log = require("logger")
 -- Servicios de generacion de archivos
 local gen = require("generador")
+-- Utilidades varias 
+local utils = require("utils")
 
-print(config.path_sensible)
---print(config.path_edu)
+--print(utils.obt_ronda_solar())
+
+--print("config: " .. utils.dump_table(config))

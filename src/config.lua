@@ -1,4 +1,10 @@
--- Valores de configuracion del servicio
+--[[ 
+Valores de configuracion del servicio
+--]]
+
+
+local utils = require("utils")
+
 -- Direccion del archivo init.lua
 local path = os.getenv("PWD")
 
@@ -14,6 +20,9 @@ local config = {
     -- cuentas mail
     mail_secre = "secretaria@scouts217.com",
     mail_1 = "alb.pascau@gmail.com",
+
+    -- otros
+    ronda_solar = utils.get_ronda_solar(),
 
 }
 

@@ -1,3 +1,5 @@
+
+
 -- Función para remover tildes y caracteres especiales
 local function remover_tildes(texto)
     local tildes = {

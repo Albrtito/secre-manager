@@ -12,7 +12,9 @@ La definición debe de incluir:
 
 ### organizar_archivo
 
-- **input:** path: path al archivo a organizar, de tipo str (aunq en lua no importa mucho)
+- **input:** path, none|ronda_solar: path al archivo a organizar, de tipo str (aunq en lua no importa mucho). El segundo parámetro será none si se quiere coger la ronda solar actual, sino será una ronda_solar válida en formato (%Y-%Y). 
+    - Para que una ronda solar sea válida el primer año debe de ser menor al segundo por uno 
+
 - **output:** codigo: Se devolverá un código de resultado de tipo int que tendrá uno de los siguientes valores.
     -  0 -> El archivo se ha organizado correctamente
     - -1 -> Error en el nombre del archivo

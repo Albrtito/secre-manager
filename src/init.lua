@@ -1,18 +1,19 @@
 --[[ 
 Módulo principal, desde aquí se hacen las llamadas y se utilizan los valores calculados por el resto de módulos.
 --]]
-
 -- Datos importantes
-local config = require("config")
+local config = require("lua.config")
 -- Servicios de organizacin
-local org = require("organizador")
+local org = require("lua.organizador")
 -- Servicios de log (aux)
-local log = require("logger")
+local log = require("lua.logger")
 -- Servicios de generacion de archivos
-local gen = require("generador")
+local gen = require("lua.generador")
 -- Utilidades varias 
-local utils = require("utils")
+local utils = require("lua.utils")
 
---print(utils.obt_ronda_solar())
+log.print("mymessage")
 
---print("config: " .. utils.dump_table(config))
+
+
+

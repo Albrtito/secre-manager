@@ -3,7 +3,7 @@ Valores de configuracion del servicio
 --]]
 
 
-local utils = require("utils")
+local utils = require("lua.utils")
 
 -- Direccion del archivo init.lua
 local path = os.getenv("PWD")

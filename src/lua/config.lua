@@ -25,7 +25,7 @@ local config = {
 	ronda_solar = utils.get_ronda_solar(),
 
 	-- Patrón que siguen los nombres de cada archivo
-	patron = "^[a-z][a-zA-Z0-9]*%-[A-Z][a-zA-Z0-9]*%.[a-zA-Z0-9]+$",
+	patron = "^[a-zA-Z0-9]*%-[A-Z][a-zA-Z0-9]*%.[a-zA-Z0-9]+$",
 }
 
 return config

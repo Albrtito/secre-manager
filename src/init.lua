@@ -28,3 +28,15 @@ else
     log.log("Path for 00.SENSIBLE/DOCU_EDUCANDOS NOT found")
 end
 
+if utils.path_exists(config.path_edu .. "2024-2025") then
+    log.log("Path for 00.SENSIBLE/DOCU_EDUCANDOS/RONDA_ACTUAL checked")
+else
+    log.log("Path for 00.SENSIBLE/DOCU_EDUCANDOS/RONDA_ACTUAL NOT found")
+end
+
+local files = utils.list_files(config.path_edu .. "2024-2025/ACP25/dnl")
+print(utils.dump_table(files))
+
+for index, value in ipairs(files) do
+    org.validar_nombre(value)
+end

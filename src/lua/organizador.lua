@@ -13,7 +13,7 @@ end
 
 -- Función para validar el nombre de un archivo según el patron guardado en config
 -- @return: -1 en caso de que el nombre no sea válido, 1 en caso de que lo sea
-local function validar_nombre(nombre)
+function organizador.validar_nombre(nombre)
 	if string.match(nombre, config.patron) then
 		logger.log("El archivo " .. nombre .. " cumple el formato estandar")
 		return 1
@@ -43,11 +43,10 @@ function organizador.organizar_archivo(path, varianza)
 
 	-- Validacion del nombre del archivo
 	local nombre_archivo = get_file_name(path)
-	if validar_nombre(nombre_archivo) ~= 1 then
+	if organizador.validar_nombre(nombre_archivo) ~= 1 then
 		logger.dlog(nombre_archivo .. " El nombre del archivo no cumple el formato estandar")
 		return -1
 	end
-
 end
 
 return organizador

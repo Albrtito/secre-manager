@@ -1,0 +1,11 @@
+2025/07/01 20:34:43 Checking for path existances
+2025/07/01 20:34:43 Path for 00.SENSIBLE checked
+2025/07/01 20:34:43 Path for 00.SENSIBLE/DOCU_EDUCANDOS checked
+2025/07/01 20:34:43 Path for 00.SENSIBLE/DOCU_EDUCANDOS/RONDA_ACTUAL checked
+2025/07/01 20:34:43 El archivo .DS_Store NO CUMPLE el formato estandar
+2025/07/01 20:34:43 El archivo ACP25 - RODRIGO GALICIA NOGUERO.pdf NO CUMPLE el formato estandar
+2025/07/01 20:34:43 El archivo ACP25 - GUILLERMO BERROCAL DODDS.pdf NO CUMPLE el formato estandar
+2025/07/01 20:34:43 El archivo ACP25 - ALEJANDRO MÁRQUEZ SÁNCHEZ.pdf NO CUMPLE el formato estandar
+2025/07/01 20:34:43 El archivo ACP25 - ALICIA CORREDERA HONORIO.pdf NO CUMPLE el formato estandar
+2025/07/01 20:34:43 El archivo ACP25- Joan Coll Mendez.pdf NO CUMPLE el formato estandar
+2025/07/01 20:34:43 El archivo ACP25-SabinaNovilloMorillo.pdf cumple el formato estandar

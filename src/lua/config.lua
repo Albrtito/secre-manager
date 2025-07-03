@@ -10,6 +10,7 @@ local path = os.getenv("PWD")
 local config = {
 
 	-- paths
+    path_sm = path,
 	-- Direccion de la carpeta de sensible
 	path_sensible = path .. "/../../../Shared drives/00. Sensible/",
 	-- Dirección a la carpeta de la docu de educandos

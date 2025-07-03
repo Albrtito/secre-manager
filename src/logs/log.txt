@@ -9,3 +9,151 @@
 2025/07/01 20:34:43 El archivo ACP25 - ALICIA CORREDERA HONORIO.pdf NO CUMPLE el formato estandar
 2025/07/01 20:34:43 El archivo ACP25- Joan Coll Mendez.pdf NO CUMPLE el formato estandar
 2025/07/01 20:34:43 El archivo ACP25-SabinaNovilloMorillo.pdf cumple el formato estandar
+2025/07/03 18:38:42 ./lua/organizador.lua:46 /Users/tito/Proyects/secre-manager/src/../../../Shared drives/00. Sensible/00-Documentacion-educandos//2024-2025/tmp/ No es un path válido
+2025/07/03 18:41:36 ./lua/organizador.lua:46 /Users/tito/Proyects/secre-manager/src/../../../Shared drives/00. Sensible/00-Documentacion-educandos//2024-2025/tmp/ No es un path válido
+2025/07/03 18:41:55 ./lua/organizador.lua:46 /Users/tito/Proyects/secre-manager/src/../../../Shared drives/00. Sensible/00-Documentacion-educandos//2024-2025/tmp/ No es un path válido
+2025/07/03 18:42:41 ./lua/organizador.lua:46 /Users/tito/Proyects/secre-manager/src/../../../Shared drives/00. Sensible/00-Documentacion-educandos//2024-2025/tmp/ No es un path válido
+2025/07/03 18:42:49 ./lua/organizador.lua:46 /Users/tito/Proyects/secre-manager/src/../../../Shared drives/00. Sensible/00-Documentacion-educandos//2024-2025/tmp/ No es un path válido
+2025/07/03 18:44:15 ./lua/organizador.lua:46 /Users/tito/Proyects/secre-manager/src/../../../Shared drives/00. Sensible/00-Documentacion-educandos//2024-2025/tmp/ No es un path válido
+2025/07/03 18:44:39 ./lua/organizador.lua:46 /Users/tito/Proyects/secre-manager/src/../../../Shared drives/00. Sensible/00-Documentacion-educandos//2024-2025/tmp/ No es un path válido
+2025/07/03 18:45:05 ./lua/organizador.lua:46 /Users/tito/Proyects/secre-manager/src/../../../Shared drives/00. Sensible/00-Documentacion-educandos//2024-2025/tmp/ No es un path válido
+2025/07/03 18:45:11 ./lua/organizador.lua:46 /Users/tito/Proyects/secre-manager/src/../../../Shared drives/00. Sensible/00-Documentacion-educandos//2024-2025/tmp/ No es un path válido
+2025/07/03 18:45:27 ./lua/organizador.lua:46 /Users/tito/Proyects/secre-manager/src/../../../Shared drives/00. Sensible/00-Documentacion-educandos//2024-2025/tmp/ No es un path válido
+2025/07/03 18:46:23 ./lua/organizador.lua:46 /Users/tito/Proyects/secre-manager/src/../../../Shared drives/00. Sensible/00-Documentacion-educandos//2024-2025/tmp/ No es un path válido
+2025/07/03 18:48:49 ./lua/organizador.lua:48 /Users/tito/Proyects/secre-manager/src/../../../Shared drives/00. Sensible/00-Documentacion-educandos//2024-2025/tmp/ No es un path válido
+2025/07/03 18:49:32 ./lua/organizador.lua:48 /Users/tito/Proyects/secre-manager/src/../../../Shared drives/00. Sensible/00-Documentacion-educandos//2024-2025/tmp/ No es un path válido
+2025/07/03 18:51:22 ./lua/organizador.lua:48 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp/ No es un path válido
+2025/07/03 18:51:30 ./lua/organizador.lua:48 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp/ No es un path válido
+2025/07/03 18:57:57 El archivo B1 Nombre APellido Apellido NO CUMPLE el formato estandar
+2025/07/03 18:57:57 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//B1 Nombre APellido Apellido El nombre del archivo no cumple el formato estandar
+2025/07/03 18:57:57 El archivo ACP-NOMBREAPELLIDOAPLLEIDO.pdf cumple el formato estandar
+2025/07/03 18:57:57 El archivo ACV-NombreApellido1Apellido2.pdf cumple el formato estandar
+2025/07/03 18:57:57 El archivo ACV-AafasdfaDASFSDf.pdf cumple el formato estandar
+2025/07/03 18:59:24 El archivo .DS_Store NO CUMPLE el formato estandar
+2025/07/03 18:59:24 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//.DS_Store El nombre del archivo no cumple el formato estandar
+2025/07/03 18:59:24 El archivo B1 Nombre APellido Apellido NO CUMPLE el formato estandar
+2025/07/03 18:59:24 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//see/B1 Nombre APellido Apellido El nombre del archivo no cumple el formato estandar
+2025/07/03 18:59:24 El archivo ACV-NombreApellido1Apellido2.pdf cumple el formato estandar
+2025/07/03 18:59:24 El archivo ACV-AafasdfaDASFSDf.pdf cumple el formato estandar
+2025/07/03 18:59:24 El archivo ACP-NOMBREAPELLIDOAPLLEIDO.pdf cumple el formato estandar
+2025/07/03 18:59:29 El archivo .DS_Store NO CUMPLE el formato estandar
+2025/07/03 18:59:29 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//.DS_Store El nombre del archivo no cumple el formato estandar
+2025/07/03 18:59:29 El archivo B1 Nombre APellido Apellido NO CUMPLE el formato estandar
+2025/07/03 18:59:29 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//see/B1 Nombre APellido Apellido El nombre del archivo no cumple el formato estandar
+2025/07/03 18:59:29 El archivo ACV-NombreApellido1Apellido2.pdf cumple el formato estandar
+2025/07/03 18:59:29 El archivo ACV-AafasdfaDASFSDf.pdf cumple el formato estandar
+2025/07/03 18:59:29 El archivo ACP-NOMBREAPELLIDOAPLLEIDO.pdf cumple el formato estandar
+2025/07/03 19:05:34 El archivo .DS_Store NO CUMPLE el formato estandar
+2025/07/03 19:05:34 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//.DS_Store El nombre del archivo no cumple el formato estandar
+2025/07/03 19:05:34 El archivo B1 Nombre APellido Apellido NO CUMPLE el formato estandar
+2025/07/03 19:05:34 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//see/B1 Nombre APellido Apellido El nombre del archivo no cumple el formato estandar
+2025/07/03 19:05:34 El archivo ACV-NombreApellido1Apellido2.pdf NO CUMPLE el formato estandar
+2025/07/03 19:05:34 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//mck/ACV-NombreApellido1Apellido2.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:05:34 El archivo ACV-AafasdfaDASFSDf.pdf NO CUMPLE el formato estandar
+2025/07/03 19:05:34 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//idaho/ACV-AafasdfaDASFSDf.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:05:34 El archivo ACP-NOMBREAPELLIDOAPLLEIDO.pdf NO CUMPLE el formato estandar
+2025/07/03 19:05:34 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//kil/ACP-NOMBREAPELLIDOAPLLEIDO.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:06:10 El archivo .DS_Store NO CUMPLE el formato estandar
+2025/07/03 19:06:10 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//.DS_Store El nombre del archivo no cumple el formato estandar
+2025/07/03 19:06:10 El archivo B1 Nombre APellido Apellido NO CUMPLE el formato estandar
+2025/07/03 19:06:10 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//see/B1 Nombre APellido Apellido El nombre del archivo no cumple el formato estandar
+2025/07/03 19:06:10 El archivo ACV-NombreApellidoApellido.pdf NO CUMPLE el formato estandar
+2025/07/03 19:06:10 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//mck/ACV-NombreApellidoApellido.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:06:10 El archivo ACV-AafasdfaDASFSDf.pdf NO CUMPLE el formato estandar
+2025/07/03 19:06:10 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//idaho/ACV-AafasdfaDASFSDf.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:06:10 El archivo ACP-NOMBREAPELLIDOAPLLEIDO.pdf NO CUMPLE el formato estandar
+2025/07/03 19:06:10 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//kil/ACP-NOMBREAPELLIDOAPLLEIDO.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:07:45 El archivo .DS_Store NO CUMPLE el formato estandar
+2025/07/03 19:07:45 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//.DS_Store El nombre del archivo no cumple el formato estandar
+2025/07/03 19:07:45 El archivo B1 Nombre APellido Apellido NO CUMPLE el formato estandar
+2025/07/03 19:07:45 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//see/B1 Nombre APellido Apellido El nombre del archivo no cumple el formato estandar
+2025/07/03 19:07:45 El archivo ACV-NombreApellidoApellido.pdf NO CUMPLE el formato estandar
+2025/07/03 19:07:45 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//mck/ACV-NombreApellidoApellido.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:07:45 El archivo ACV-AafasdfaDASFSDf.pdf NO CUMPLE el formato estandar
+2025/07/03 19:07:45 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//idaho/ACV-AafasdfaDASFSDf.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:07:45 El archivo ACP-NOMBREAPELLIDOAPLLEIDO.pdf NO CUMPLE el formato estandar
+2025/07/03 19:07:45 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//kil/ACP-NOMBREAPELLIDOAPLLEIDO.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:08:11 El archivo .DS_Store NO CUMPLE el formato estandar
+2025/07/03 19:08:11 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//.DS_Store El nombre del archivo no cumple el formato estandar
+2025/07/03 19:08:11 El archivo B1 Nombre APellido Apellido NO CUMPLE el formato estandar
+2025/07/03 19:08:11 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//see/B1 Nombre APellido Apellido El nombre del archivo no cumple el formato estandar
+2025/07/03 19:08:11 El archivo ACV-NombreApellidoApellido.pdf NO CUMPLE el formato estandar
+2025/07/03 19:08:11 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//mck/ACV-NombreApellidoApellido.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:08:11 El archivo ACV-AafasdfaDASFSDf.pdf NO CUMPLE el formato estandar
+2025/07/03 19:08:11 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//idaho/ACV-AafasdfaDASFSDf.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:08:11 El archivo ACP-NOMBREAPELLIDOAPLLEIDO.pdf NO CUMPLE el formato estandar
+2025/07/03 19:08:11 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//kil/ACP-NOMBREAPELLIDOAPLLEIDO.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:08:35 El archivo .DS_Store NO CUMPLE el formato estandar
+2025/07/03 19:08:35 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//.DS_Store El nombre del archivo no cumple el formato estandar
+2025/07/03 19:08:35 El archivo B1 Nombre APellido Apellido NO CUMPLE el formato estandar
+2025/07/03 19:08:35 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//see/B1 Nombre APellido Apellido El nombre del archivo no cumple el formato estandar
+2025/07/03 19:08:35 El archivo ACV-NombreApellidoApellido.pdf NO CUMPLE el formato estandar
+2025/07/03 19:08:35 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//mck/ACV-NombreApellidoApellido.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:08:35 El archivo ACV-AafasdfaDASFSDf.pdf NO CUMPLE el formato estandar
+2025/07/03 19:08:35 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//idaho/ACV-AafasdfaDASFSDf.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:08:35 El archivo ACP-NOMBREAPELLIDOAPLLEIDO.pdf NO CUMPLE el formato estandar
+2025/07/03 19:08:35 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//kil/ACP-NOMBREAPELLIDOAPLLEIDO.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:10:35 El archivo .DS_Store NO CUMPLE el formato estandar
+2025/07/03 19:10:35 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//.DS_Store El nombre del archivo no cumple el formato estandar
+2025/07/03 19:10:35 El archivo B1 Nombre APellido Apellido NO CUMPLE el formato estandar
+2025/07/03 19:10:35 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//see/B1 Nombre APellido Apellido El nombre del archivo no cumple el formato estandar
+2025/07/03 19:10:35 El archivo B1-NombreTestTest.pdf NO CUMPLE el formato estandar
+2025/07/03 19:10:35 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//dnl/B1-NombreTestTest.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:10:35 El archivo ACV-NombreApellidoApellido.pdf NO CUMPLE el formato estandar
+2025/07/03 19:10:35 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//mck/ACV-NombreApellidoApellido.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:10:35 El archivo ACV-AafasdfaDASFSDf.pdf NO CUMPLE el formato estandar
+2025/07/03 19:10:35 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//idaho/ACV-AafasdfaDASFSDf.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:10:35 El archivo ACP-NOMBREAPELLIDOAPLLEIDO.pdf NO CUMPLE el formato estandar
+2025/07/03 19:10:35 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//kil/ACP-NOMBREAPELLIDOAPLLEIDO.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:10:56 El archivo .DS_Store NO CUMPLE el formato estandar
+2025/07/03 19:10:56 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//.DS_Store El nombre del archivo no cumple el formato estandar
+2025/07/03 19:10:56 El archivo B1 Nombre APellido Apellido NO CUMPLE el formato estandar
+2025/07/03 19:10:56 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//see/B1 Nombre APellido Apellido El nombre del archivo no cumple el formato estandar
+2025/07/03 19:10:56 El archivo B1-NombreTestTest.pdf NO CUMPLE el formato estandar
+2025/07/03 19:10:56 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//dnl/B1-NombreTestTest.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:10:56 El archivo ACV-NombreApellidoApellido.pdf NO CUMPLE el formato estandar
+2025/07/03 19:10:56 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//mck/ACV-NombreApellidoApellido.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:10:56 El archivo ACV-AafasdfaDASFSDf.pdf NO CUMPLE el formato estandar
+2025/07/03 19:10:56 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//idaho/ACV-AafasdfaDASFSDf.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:10:56 El archivo ACP-NOMBREAPELLIDOAPLLEIDO.pdf NO CUMPLE el formato estandar
+2025/07/03 19:10:56 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//kil/ACP-NOMBREAPELLIDOAPLLEIDO.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:11:30 El archivo .DS_Store NO CUMPLE el formato estandar
+2025/07/03 19:11:30 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//.DS_Store El nombre del archivo no cumple el formato estandar
+2025/07/03 19:11:30 El archivo B1 Nombre APellido Apellido NO CUMPLE el formato estandar
+2025/07/03 19:11:30 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//see/B1 Nombre APellido Apellido El nombre del archivo no cumple el formato estandar
+2025/07/03 19:11:30 El archivo B1-NombreTestTest.pdf cumple el formato estandar
+2025/07/03 19:11:30 El archivo ACV-NombreApellidoApellido.pdf cumple el formato estandar
+2025/07/03 19:11:30 El archivo ACV-AafasdfaDASFSDf.pdf cumple el formato estandar
+2025/07/03 19:11:30 El archivo ACP-NOMBREAPELLIDOAPLLEIDO.pdf cumple el formato estandar
+2025/07/03 19:11:59 El archivo .DS_Store NO CUMPLE el formato estandar
+2025/07/03 19:11:59 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//.DS_Store El nombre del archivo no cumple el formato estandar
+2025/07/03 19:11:59 El archivo B1 Nombre APellido Apellido NO CUMPLE el formato estandar
+2025/07/03 19:11:59 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//see/B1 Nombre APellido Apellido El nombre del archivo no cumple el formato estandar
+2025/07/03 19:11:59 El archivo B1-NombreTestTest.pdf NO CUMPLE el formato estandar
+2025/07/03 19:11:59 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//dnl/B1-NombreTestTest.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:11:59 El archivo ACV-NombreApellidoApellido.pdf NO CUMPLE el formato estandar
+2025/07/03 19:11:59 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//mck/ACV-NombreApellidoApellido.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:11:59 El archivo ACV-AafasdfaDASFSDf.pdf NO CUMPLE el formato estandar
+2025/07/03 19:11:59 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//idaho/ACV-AafasdfaDASFSDf.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:11:59 El archivo ACP-NOMBREAPELLIDOAPLLEIDO.pdf NO CUMPLE el formato estandar
+2025/07/03 19:11:59 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//kil/ACP-NOMBREAPELLIDOAPLLEIDO.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:12:15 El archivo .DS_Store NO CUMPLE el formato estandar
+2025/07/03 19:12:15 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//.DS_Store El nombre del archivo no cumple el formato estandar
+2025/07/03 19:12:15 El archivo B1 Nombre APellido Apellido NO CUMPLE el formato estandar
+2025/07/03 19:12:15 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//see/B1 Nombre APellido Apellido El nombre del archivo no cumple el formato estandar
+2025/07/03 19:12:15 El archivo B1-NombreTestTest.pdf NO CUMPLE el formato estandar
+2025/07/03 19:12:15 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//dnl/B1-NombreTestTest.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:12:15 El archivo ACV-NombreApellidoApellido.pdf NO CUMPLE el formato estandar
+2025/07/03 19:12:15 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//mck/ACV-NombreApellidoApellido.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:12:15 El archivo ACV-AafasdfaDASFSDf.pdf NO CUMPLE el formato estandar
+2025/07/03 19:12:15 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//idaho/ACV-AafasdfaDASFSDf.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:12:15 El archivo ACP-NOMBREAPELLIDOAPLLEIDO.pdf NO CUMPLE el formato estandar
+2025/07/03 19:12:15 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//kil/ACP-NOMBREAPELLIDOAPLLEIDO.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:12:28 El archivo .DS_Store NO CUMPLE el formato estandar
+2025/07/03 19:12:28 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//.DS_Store El nombre del archivo no cumple el formato estandar
+2025/07/03 19:12:28 El archivo B1 Nombre APellido Apellido NO CUMPLE el formato estandar
+2025/07/03 19:12:28 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//see/B1 Nombre APellido Apellido El nombre del archivo no cumple el formato estandar
+2025/07/03 19:12:28 El archivo B1-NombreTestTest.pdf cumple el formato estandar
+2025/07/03 19:12:28 El archivo ACV-NombreApellidoApellido.pdf cumple el formato estandar
+2025/07/03 19:12:28 El archivo ACV-AafasdfaDASFSDf.pdf cumple el formato estandar
+2025/07/03 19:12:28 El archivo ACP-NOMBREAPELLIDOAPLLEIDO.pdf cumple el formato estandar

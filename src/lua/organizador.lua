@@ -24,29 +24,46 @@ function organizador.validar_nombre(nombre)
 end
 
 -- WARNING: Sin terminar
--- Servicio de organización de un archivo en las carpetas de la ronda solar seleccionada
--- @param: Path del archivo a organizar
+-- Servicio de organización de los archivos en las carpetas de la ronda solar seleccionada
+-- @param: Path a la carpeta de archivos a seleccionar, si no se inserta nada será la tmp de esta ronda
 -- @param: Varianza de la ronda solar actual a la que se quiere utilizar (si estamos en 2025 y queremos hace cinco rondas la varianza será 5)
--- @return: Deuelve 0 si todo ha ocurrido correctamente, -1 si hay un error en el nombre del archivo, -2 para otro tipo de errores
-function organizador.organizar_archivo(path, varianza)
+-- @return: Deuelve 0 si todo ha ocurrido correctamente, -1 si hay un error en el nombre de algún archivo, -2 para otro tipo de errores
+-- @return: Devuelve una tabla con el error para cada archivo si lo hubiera
+function organizador.organizar_archivos(path, varianza)
+	local out_table = {}
+	local out_code = 0
+	local ronda_solar
 	-- Verificación de parámetros
 	if varianza == nil then
-		local ronda_solar = utils.get_ronda_solar()
+		ronda_solar = utils.get_ronda_solar()
 	else
-		local ronda_solar = utils.get_ronda_solar(varianza)
+		ronda_solar = utils.get_ronda_solar(varianza)
+	end
+
+	if path == nil then
+		path = config.path_edu .. "/" .. ronda_solar .. "/tmp/"
 	end
 
 	if not utils.path_exists(path) then
-		logger.dlog(path .. " No es un path válido, el archivo no existe en esta dirección")
-		return -1
+		logger.dlog(path .. " No es un path válido")
+		out_code = -2
+        return out_code, nil
 	end
 
-	-- Validacion del nombre del archivo
-	local nombre_archivo = get_file_name(path)
-	if organizador.validar_nombre(nombre_archivo) ~= 1 then
-		logger.dlog(nombre_archivo .. " El nombre del archivo no cumple el formato estandar")
-		return -1
+	-- Ir rotando por todos los archivos de la carpeta
+	local archivos = utils.list_files(path, true)
+	for index, path_archivo in ipairs(archivos) do
+		local nombre_archivo = get_file_name(path_archivo)
+		if organizador.validar_nombre(nombre_archivo) ~= 1 then
+			logger.dlog(path_archivo .. " El nombre del archivo no cumple el formato estandar")
+			out_code = -1
+			table.insert(out_table, nombre_archivo .. " ERROR")
+		else
+			table.insert(out_table, nombre_archivo .. " OK")
+		end
 	end
+
+	return out_code, out_table
 end
 
 return organizador

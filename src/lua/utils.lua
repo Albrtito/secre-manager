@@ -1,3 +1,5 @@
+local lfs = require("lfs")
+
 local utils = {}
 
 -- WARNING: This function is not tested for the varianza
@@ -40,11 +42,17 @@ function utils.path_exists(file)
 	return ok, err
 end
 
-local lfs = require("lfs")
-
--- Función para enumerar todos los ficheros bajo un directorio dado como argumento. 
+-- Función para enumerar todos los ficheros bajo un directorio dado como argumento.
 -- @return: Devuelve una tabla con todos los ficheros
-function utils.list_files(directory)
+function utils.list_files(directory, r)
+	if r == nil then
+		r = false
+	end
+
+	if directory == nil then
+		directory = os.getenv("PWD")
+	end
+
 	local files = {}
 
 	for filename in lfs.dir(directory) do
@@ -52,7 +60,15 @@ function utils.list_files(directory)
 			local filepath = directory .. "/" .. filename
 			local attr = lfs.attributes(filepath)
 			if attr and attr.mode == "file" then
-				table.insert(files, filename)
+				table.insert(files, filepath)
+			elseif attr and attr.mode == "directory" then
+				if r then
+					for index, value in ipairs(utils.list_files(filepath)) do
+						table.insert(files, value)
+					end
+				else
+					table.insert(files, filepath)
+				end
 			end
 		end
 	end

@@ -6,10 +6,6 @@ local config = require("lua.config")
 local logger = require("lua.logger")
 local organizador = {}
 
--- Función para obtener el nombre de un fichero dado un path completo a el
-local function get_file_name(file)
-	return file:match("[^/]*.[a-z]*$")
-end
 
 -- Función para validar el nombre de un archivo según el patron guardado en config
 -- @return: -1 en caso de que el nombre no sea válido, 1 en caso de que lo sea
@@ -42,24 +38,30 @@ function organizador.organizar_archivos(path, varianza)
 
 	if path == nil then
 		path = config.path_edu .. "/" .. ronda_solar .. "/tmp/"
+	elseif path == "." then
+		path = config.path_edu .. "/" .. ronda_solar .. "/"
+	else
+		path = config.path_edu .. "/" .. ronda_solar .. "/" .. path .. "/"
 	end
 
 	if not utils.path_exists(path) then
 		logger.dlog(path .. " No es un path válido")
 		out_code = -2
-        return out_code, nil
+		return out_code, nil
 	end
 
 	-- Ir rotando por todos los archivos de la carpeta
 	local archivos = utils.list_files(path, true)
 	for index, path_archivo in ipairs(archivos) do
-		local nombre_archivo = get_file_name(path_archivo)
+		local nombre_archivo = utils.get_file_name(path_archivo)
+		local und = utils.obtenerCarpeta(path_archivo)
+		-- Verificar nombre
 		if organizador.validar_nombre(nombre_archivo) ~= 1 then
-			logger.dlog(path_archivo .. " El nombre del archivo no cumple el formato estandar")
 			out_code = -1
-			table.insert(out_table, nombre_archivo .. " ERROR")
+			logger.dlog(nombre_archivo .. " El nombre del archivo no cumple el formato estandar")
+			table.insert(out_table, { nombre = nombre_archivo, status = "ERROR", und = und })
 		else
-			table.insert(out_table, nombre_archivo .. " OK")
+			table.insert(out_table, { nombre = nombre_archivo, status = "OK", und = und })
 		end
 	end
 

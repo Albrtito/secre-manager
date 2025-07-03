@@ -4,6 +4,7 @@ local lm = require("lummander")
 -- Módulos internos
 local utils = require("lua.utils")
 local org = require("lua.organizador")
+local config = require("lua.config")
 
 local cli = lm.new({
 	title = "Secre manager",
@@ -35,9 +36,14 @@ cli:command("lf [directory]", "Mostrar los archivos de una carpeta y subcarpetas
 		else
 			r = false
 		end
+		if parsed.directory == nil then
+			parsed.directory = config.path_edu
+        else 
+            parsed.directory = config.path_edu .. "/" .. parsed.directory
+		end
 		local files = utils.list_files(parsed.directory, r)
 		for index, value in ipairs(files) do
-			print(value)
+			print(utils.get_file_name(value))
 		end
 		print("\n")
 	end)
@@ -51,16 +57,16 @@ cli
 		local out_code
 		local out_table
 		out_code, out_table = org.organizar_archivos(parsed.path, parsed.varianza)
-        print(utils.dump_table(out_table))
 		if out_code == -1 then
 			print("Errores encontrados en el nombre de alguno de los archivos")
-        elseif out_code == -2 then
-            print("Error en el path, no existe")
+		elseif out_code == -2 then
+			print("Error en el path, no existe")
+			return -1
 		end
 
-		--for index, value in ipairs(out_table) do
-		--	print(value)
-		--end
+		for index, value in ipairs(out_table) do
+			print(utils.dump_table(value))
+		end
 	end)
 
 return cli

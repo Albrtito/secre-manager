@@ -43,6 +43,8 @@ function utils.path_exists(file)
 end
 
 -- Función para enumerar todos los ficheros bajo un directorio dado como argumento.
+-- @param directory: Directorio a explorar (opcional, por defecto PWD)
+-- @param r: Si es true, busca recursivamente en subdirectorios (opcional, por defecto false)
 -- @return: Devuelve una tabla con todos los ficheros
 function utils.list_files(directory, r)
 	if r == nil then
@@ -56,17 +58,21 @@ function utils.list_files(directory, r)
 	local files = {}
 
 	for filename in lfs.dir(directory) do
-		if filename ~= "." and filename ~= ".." then
+		if filename ~= "." and filename ~= ".." and filename:match("^[^.]")  then
 			local filepath = directory .. "/" .. filename
 			local attr = lfs.attributes(filepath)
+
 			if attr and attr.mode == "file" then
 				table.insert(files, filepath)
 			elseif attr and attr.mode == "directory" then
 				if r then
-					for index, value in ipairs(utils.list_files(filepath)) do
+					-- Recursive call with the same 'r' parameter
+					local subdirectory_files = utils.list_files(filepath, r)
+					for index, value in ipairs(subdirectory_files) do
 						table.insert(files, value)
 					end
 				else
+					-- When not recursive, add directory paths
 					table.insert(files, filepath)
 				end
 			end
@@ -74,6 +80,17 @@ function utils.list_files(directory, r)
 	end
 
 	return files
+end
+
+
+-- Función para obtener el nombre de un fichero dado un path completo a el
+function utils.get_file_name(file)
+	return file:match("[^/]*.[a-z]*$")
+end
+
+-- Función para obtener la carpeta en la que se encuentra un archivo
+function utils.obtenerCarpeta(path)
+	return path:match(".*/(.-)/[^/]*$") or "."
 end
 
 return utils

@@ -157,3 +157,412 @@
 2025/07/03 19:12:28 El archivo ACV-NombreApellidoApellido.pdf cumple el formato estandar
 2025/07/03 19:12:28 El archivo ACV-AafasdfaDASFSDf.pdf cumple el formato estandar
 2025/07/03 19:12:28 El archivo ACP-NOMBREAPELLIDOAPLLEIDO.pdf cumple el formato estandar
+2025/07/03 19:26:00 El archivo .DS_Store NO CUMPLE el formato estandar
+2025/07/03 19:26:00 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//.DS_Store El nombre del archivo no cumple el formato estandar
+2025/07/03 19:26:00 El archivo B1 Nombre APellido Apellido NO CUMPLE el formato estandar
+2025/07/03 19:26:00 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//see/B1 Nombre APellido Apellido El nombre del archivo no cumple el formato estandar
+2025/07/03 19:26:00 El archivo B1-NombreTestTest.pdf NO CUMPLE el formato estandar
+2025/07/03 19:26:00 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//dnl/B1-NombreTestTest.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:26:00 El archivo ACV-NombreApellidoApellido.pdf cumple el formato estandar
+2025/07/03 19:26:00 El archivo ACV-AafasdfaDASFSDf.pdf NO CUMPLE el formato estandar
+2025/07/03 19:26:00 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//idaho/ACV-AafasdfaDASFSDf.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:26:00 El archivo ACP-NOMBREAPELLIDOAPLLEIDO.pdf NO CUMPLE el formato estandar
+2025/07/03 19:26:00 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//kil/ACP-NOMBREAPELLIDOAPLLEIDO.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:26:43 El archivo .DS_Store NO CUMPLE el formato estandar
+2025/07/03 19:26:43 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//.DS_Store El nombre del archivo no cumple el formato estandar
+2025/07/03 19:26:43 El archivo B1 Nombre APellido Apellido NO CUMPLE el formato estandar
+2025/07/03 19:26:43 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//see/B1 Nombre APellido Apellido El nombre del archivo no cumple el formato estandar
+2025/07/03 19:26:43 El archivo B1-NombreTestTest.pdf cumple el formato estandar
+2025/07/03 19:26:43 El archivo ACV-NombreApellidoApellido.pdf cumple el formato estandar
+2025/07/03 19:26:43 El archivo ACV-AafasdfaDASFSDf.pdf cumple el formato estandar
+2025/07/03 19:26:43 El archivo ACP-NOMBREAPELLIDOAPLLEIDO.pdf NO CUMPLE el formato estandar
+2025/07/03 19:26:43 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//kil/ACP-NOMBREAPELLIDOAPLLEIDO.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:27:53 El archivo .DS_Store NO CUMPLE el formato estandar
+2025/07/03 19:27:53 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//.DS_Store El nombre del archivo no cumple el formato estandar
+2025/07/03 19:27:53 El archivo B1 Nombre APellido Apellido NO CUMPLE el formato estandar
+2025/07/03 19:27:53 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//see/B1 Nombre APellido Apellido El nombre del archivo no cumple el formato estandar
+2025/07/03 19:27:53 El archivo B1-NombreTestTest.pdf NO CUMPLE el formato estandar
+2025/07/03 19:27:53 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//dnl/B1-NombreTestTest.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:27:53 El archivo ACV-NombreApellidoApellido.pdf NO CUMPLE el formato estandar
+2025/07/03 19:27:53 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//mck/ACV-NombreApellidoApellido.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:27:53 El archivo ACV-AafasdfaDASFSDf.pdf NO CUMPLE el formato estandar
+2025/07/03 19:27:53 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//idaho/ACV-AafasdfaDASFSDf.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:27:53 El archivo ACP-NOMBREAPELLIDOAPLLEIDO.pdf NO CUMPLE el formato estandar
+2025/07/03 19:27:53 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//kil/ACP-NOMBREAPELLIDOAPLLEIDO.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:30:29 El archivo .DS_Store NO CUMPLE el formato estandar
+2025/07/03 19:30:29 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//.DS_Store El nombre del archivo no cumple el formato estandar
+2025/07/03 19:30:29 El archivo B1 Nombre APellido Apellido NO CUMPLE el formato estandar
+2025/07/03 19:30:29 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//see/B1 Nombre APellido Apellido El nombre del archivo no cumple el formato estandar
+2025/07/03 19:30:29 El archivo B1-NombreTestTest.pdf NO CUMPLE el formato estandar
+2025/07/03 19:30:29 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//dnl/B1-NombreTestTest.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:30:29 El archivo ACV-NombreApellidoApellido.pdf NO CUMPLE el formato estandar
+2025/07/03 19:30:29 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//mck/ACV-NombreApellidoApellido.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:30:29 El archivo ACV-AafasdfaDASFSDf.pdf NO CUMPLE el formato estandar
+2025/07/03 19:30:29 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//idaho/ACV-AafasdfaDASFSDf.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:30:29 El archivo ACP-NOMBREAPELLIDOAPLLEIDO.pdf NO CUMPLE el formato estandar
+2025/07/03 19:30:29 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//kil/ACP-NOMBREAPELLIDOAPLLEIDO.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:31:26 El archivo .DS_Store NO CUMPLE el formato estandar
+2025/07/03 19:31:26 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//.DS_Store El nombre del archivo no cumple el formato estandar
+2025/07/03 19:31:26 El archivo B1 Nombre APellido Apellido NO CUMPLE el formato estandar
+2025/07/03 19:31:26 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//see/B1 Nombre APellido Apellido El nombre del archivo no cumple el formato estandar
+2025/07/03 19:31:26 El archivo B1-NombreTestTest.pdf NO CUMPLE el formato estandar
+2025/07/03 19:31:26 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//dnl/B1-NombreTestTest.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:31:26 El archivo ACV-NombreApellidoApellido.pdf NO CUMPLE el formato estandar
+2025/07/03 19:31:26 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//mck/ACV-NombreApellidoApellido.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:31:26 El archivo ACV-AafasdfaDASFSDf.pdf NO CUMPLE el formato estandar
+2025/07/03 19:31:26 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//idaho/ACV-AafasdfaDASFSDf.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:31:26 El archivo ACP-NOMBREAPELLIDOAPLLEIDO.pdf NO CUMPLE el formato estandar
+2025/07/03 19:31:26 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//kil/ACP-NOMBREAPELLIDOAPLLEIDO.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:32:41 El archivo .DS_Store NO CUMPLE el formato estandar
+2025/07/03 19:32:41 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//.DS_Store El nombre del archivo no cumple el formato estandar
+2025/07/03 19:32:41 El archivo B1 Nombre APellido Apellido NO CUMPLE el formato estandar
+2025/07/03 19:32:41 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//see/B1 Nombre APellido Apellido El nombre del archivo no cumple el formato estandar
+2025/07/03 19:32:41 El archivo B1-NombreTestTest.pdf NO CUMPLE el formato estandar
+2025/07/03 19:32:41 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//dnl/B1-NombreTestTest.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:32:41 El archivo ACV-NombreApellidoApellido.pdf NO CUMPLE el formato estandar
+2025/07/03 19:32:41 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//mck/ACV-NombreApellidoApellido.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:32:41 El archivo ACV-AafasdfaDASFSDf.pdf NO CUMPLE el formato estandar
+2025/07/03 19:32:41 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//idaho/ACV-AafasdfaDASFSDf.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:32:41 El archivo ACP-NOMBREAPELLIDOAPLLEIDO.pdf NO CUMPLE el formato estandar
+2025/07/03 19:32:41 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//kil/ACP-NOMBREAPELLIDOAPLLEIDO.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:34:24 El archivo .DS_Store NO CUMPLE el formato estandar
+2025/07/03 19:34:24 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//.DS_Store El nombre del archivo no cumple el formato estandar
+2025/07/03 19:34:24 El archivo B1 Nombre APellido Apellido NO CUMPLE el formato estandar
+2025/07/03 19:34:24 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//see/B1 Nombre APellido Apellido El nombre del archivo no cumple el formato estandar
+2025/07/03 19:34:24 El archivo B1-NombreTestTest.pdf NO CUMPLE el formato estandar
+2025/07/03 19:34:24 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//dnl/B1-NombreTestTest.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:34:24 El archivo ACV-NombreApellidoApellido.pdf NO CUMPLE el formato estandar
+2025/07/03 19:34:24 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//mck/ACV-NombreApellidoApellido.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:34:24 El archivo ACV-AafasdfaDASFSDf.pdf NO CUMPLE el formato estandar
+2025/07/03 19:34:24 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//idaho/ACV-AafasdfaDASFSDf.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:34:24 El archivo ACP-NOMBREAPELLIDOAPLLEIDO.pdf NO CUMPLE el formato estandar
+2025/07/03 19:34:24 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//kil/ACP-NOMBREAPELLIDOAPLLEIDO.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:36:19 El archivo .DS_Store NO CUMPLE el formato estandar
+2025/07/03 19:36:19 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//.DS_Store El nombre del archivo no cumple el formato estandar
+2025/07/03 19:36:19 El archivo B1 Nombre APellido Apellido NO CUMPLE el formato estandar
+2025/07/03 19:36:19 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//see/B1 Nombre APellido Apellido El nombre del archivo no cumple el formato estandar
+2025/07/03 19:36:19 El archivo B1-NombreTestTest.pdf cumple el formato estandar
+2025/07/03 19:36:19 El archivo ACV-NombreApellidoApellido.pdf cumple el formato estandar
+2025/07/03 19:36:19 El archivo ACV-AafasdfaDASFSDf.pdf NO CUMPLE el formato estandar
+2025/07/03 19:36:19 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//idaho/ACV-AafasdfaDASFSDf.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:36:19 El archivo ACP-NOMBREAPELLIDOAPLLEIDO.pdf NO CUMPLE el formato estandar
+2025/07/03 19:36:19 ./lua/organizador.lua:58 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025/tmp//kil/ACP-NOMBREAPELLIDOAPLLEIDO.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:45:52 El archivo .DS_Store NO CUMPLE el formato estandar
+2025/07/03 19:45:52 ./lua/organizador.lua:66 .DS_Store El nombre del archivo no cumple el formato estandar
+2025/07/03 19:45:52 El archivo B1 Nombre APellido Apellido NO CUMPLE el formato estandar
+2025/07/03 19:45:52 ./lua/organizador.lua:66 B1 Nombre APellido Apellido El nombre del archivo no cumple el formato estandar
+2025/07/03 19:45:52 El archivo B1-NombreTestTest.pdf cumple el formato estandar
+2025/07/03 19:45:52 El archivo ACV-NombreApellidoApellido.pdf cumple el formato estandar
+2025/07/03 19:45:52 El archivo ACV-AafasdfaDASFSDf.pdf NO CUMPLE el formato estandar
+2025/07/03 19:45:52 ./lua/organizador.lua:66 ACV-AafasdfaDASFSDf.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:45:52 El archivo ACP-NOMBREAPELLIDOAPLLEIDO.pdf NO CUMPLE el formato estandar
+2025/07/03 19:45:52 ./lua/organizador.lua:66 ACP-NOMBREAPELLIDOAPLLEIDO.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:46:22 El archivo .DS_Store NO CUMPLE el formato estandar
+2025/07/03 19:46:22 ./lua/organizador.lua:66 .DS_Store El nombre del archivo no cumple el formato estandar
+2025/07/03 19:46:22 El archivo B1 Nombre APellido Apellido NO CUMPLE el formato estandar
+2025/07/03 19:46:22 ./lua/organizador.lua:66 B1 Nombre APellido Apellido El nombre del archivo no cumple el formato estandar
+2025/07/03 19:46:22 El archivo B1-NombreTestTest.pdf cumple el formato estandar
+2025/07/03 19:46:22 El archivo ACV-NombreApellidoApellido.pdf cumple el formato estandar
+2025/07/03 19:46:22 El archivo ACV-AafasdfaDASFSDf.pdf NO CUMPLE el formato estandar
+2025/07/03 19:46:22 ./lua/organizador.lua:66 ACV-AafasdfaDASFSDf.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:46:22 El archivo ACP-NOMBREAPELLIDOAPLLEIDO.pdf NO CUMPLE el formato estandar
+2025/07/03 19:46:22 ./lua/organizador.lua:66 ACP-NOMBREAPELLIDOAPLLEIDO.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:48:27 El archivo .DS_Store NO CUMPLE el formato estandar
+2025/07/03 19:48:27 ./lua/organizador.lua:66 .DS_Store El nombre del archivo no cumple el formato estandar
+2025/07/03 19:48:56 El archivo B1 Nombre APellido Apellido NO CUMPLE el formato estandar
+2025/07/03 19:48:56 ./lua/organizador.lua:66 B1 Nombre APellido Apellido El nombre del archivo no cumple el formato estandar
+2025/07/03 19:48:56 El archivo B1-NombreTestTest.pdf cumple el formato estandar
+2025/07/03 19:48:56 El archivo ACV-NombreApellidoApellido.pdf cumple el formato estandar
+2025/07/03 19:48:56 El archivo ACV-AafasdfaDASFSDf.pdf NO CUMPLE el formato estandar
+2025/07/03 19:48:56 ./lua/organizador.lua:66 ACV-AafasdfaDASFSDf.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:48:56 El archivo ACP-NOMBREAPELLIDOAPLLEIDO.pdf NO CUMPLE el formato estandar
+2025/07/03 19:48:56 ./lua/organizador.lua:66 ACP-NOMBREAPELLIDOAPLLEIDO.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:50:07 ./lua/organizador.lua:55 /Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos/2024-2025ACV25 No es un path válido
+2025/07/03 19:50:46 El archivo B1 Nombre APellido Apellido NO CUMPLE el formato estandar
+2025/07/03 19:50:46 ./lua/organizador.lua:68 B1 Nombre APellido Apellido El nombre del archivo no cumple el formato estandar
+2025/07/03 19:50:46 El archivo B1-NombreTestTest.pdf cumple el formato estandar
+2025/07/03 19:50:46 El archivo ACV-NombreApellidoApellido.pdf cumple el formato estandar
+2025/07/03 19:50:46 El archivo ACV-AafasdfaDASFSDf.pdf NO CUMPLE el formato estandar
+2025/07/03 19:50:46 ./lua/organizador.lua:68 ACV-AafasdfaDASFSDf.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:50:46 El archivo ACP-NOMBREAPELLIDOAPLLEIDO.pdf NO CUMPLE el formato estandar
+2025/07/03 19:50:46 ./lua/organizador.lua:68 ACP-NOMBREAPELLIDOAPLLEIDO.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:51:11 El archivo B1 Nombre APellido Apellido NO CUMPLE el formato estandar
+2025/07/03 19:51:11 ./lua/organizador.lua:68 B1 Nombre APellido Apellido El nombre del archivo no cumple el formato estandar
+2025/07/03 19:51:11 El archivo B1-NombreTestTest.pdf cumple el formato estandar
+2025/07/03 19:51:11 El archivo ACV-NombreApellidoApellido.pdf cumple el formato estandar
+2025/07/03 19:51:11 El archivo ACV-AafasdfaDASFSDf.pdf NO CUMPLE el formato estandar
+2025/07/03 19:51:11 ./lua/organizador.lua:68 ACV-AafasdfaDASFSDf.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:51:11 El archivo ACP-NOMBREAPELLIDOAPLLEIDO.pdf NO CUMPLE el formato estandar
+2025/07/03 19:51:11 ./lua/organizador.lua:68 ACP-NOMBREAPELLIDOAPLLEIDO.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:51:50 El archivo ACP25-AlbaAlonsoAmor.pdf cumple el formato estandar
+2025/07/03 19:51:50 El archivo ACP25-IzarbeGómezPeña.pdf NO CUMPLE el formato estandar
+2025/07/03 19:51:50 ./lua/organizador.lua:68 ACP25-IzarbeGómezPeña.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:51:50 El archivo ACP25-ClaraOportoCaetano.pdf cumple el formato estandar
+2025/07/03 19:51:50 El archivo ACP25-LucíaArenzanaGonzález.pdf NO CUMPLE el formato estandar
+2025/07/03 19:51:50 ./lua/organizador.lua:68 ACP25-LucíaArenzanaGonzález.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:51:50 El archivo ACP25-JaraArenzanaGonzález.pdf NO CUMPLE el formato estandar
+2025/07/03 19:51:50 ./lua/organizador.lua:68 ACP25-JaraArenzanaGonzález.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:51:50 El archivo ACP25-GuillermoBerrocalDoods.pdf cumple el formato estandar
+2025/07/03 19:51:50 El archivo ACP25-RodrigoGarciaNoguero.pdf cumple el formato estandar
+2025/07/03 19:51:50 El archivo ACP25-JoanCollMendez.pdf cumple el formato estandar
+2025/07/03 19:51:50 El archivo ACP25-AliciaCorederaHonorio.pdf cumple el formato estandar
+2025/07/03 19:51:50 El archivo ACP25-AlejandroMarquezSanchez.pdf cumple el formato estandar
+2025/07/03 19:51:50 El archivo ACP25-SabinaNovilloMorillo.pdf cumple el formato estandar
+2025/07/03 19:51:50 El archivo ACP25-SarahHuddlesonCalle.pdf cumple el formato estandar
+2025/07/03 19:51:50 El archivo ACP25-MiguelGarciaRengel.pdf cumple el formato estandar
+2025/07/03 19:51:50 El archivo ACP25-LucasMazonSaiz.pdf cumple el formato estandar
+2025/07/03 19:51:50 El archivo ACP25-JimenaMayorZarca.pdf cumple el formato estandar
+2025/07/03 19:51:50 El archivo ACP25-ElenaBarcoCastillo.pdf cumple el formato estandar
+2025/07/03 19:51:50 El archivo ACP25-AfricaLopezSanchez.pdf cumple el formato estandar
+2025/07/03 19:51:50 El archivo ACP25-DarioManjonRuano.pdf cumple el formato estandar
+2025/07/03 19:51:50 El archivo ACP25-MiguelPascauSaez.pdf cumple el formato estandar
+2025/07/03 19:51:50 El archivo ACP25-AlbaAyusoRomero.pdf cumple el formato estandar
+2025/07/03 19:52:29 El archivo B1 Nombre APellido Apellido NO CUMPLE el formato estandar
+2025/07/03 19:52:29 ./lua/organizador.lua:68 B1 Nombre APellido Apellido El nombre del archivo no cumple el formato estandar
+2025/07/03 19:52:29 El archivo B1-NombreTestTest.pdf cumple el formato estandar
+2025/07/03 19:52:29 El archivo ACV-NombreApellidoApellido.pdf cumple el formato estandar
+2025/07/03 19:52:29 El archivo ACV-AafasdfaDASFSDf.pdf NO CUMPLE el formato estandar
+2025/07/03 19:52:29 ./lua/organizador.lua:68 ACV-AafasdfaDASFSDf.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:52:29 El archivo ACP-NOMBREAPELLIDOAPLLEIDO.pdf NO CUMPLE el formato estandar
+2025/07/03 19:52:29 ./lua/organizador.lua:68 ACP-NOMBREAPELLIDOAPLLEIDO.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:58:25 El archivo B1 Nombre APellido Apellido NO CUMPLE el formato estandar
+2025/07/03 19:58:25 ./lua/organizador.lua:68 B1 Nombre APellido Apellido El nombre del archivo no cumple el formato estandar
+2025/07/03 19:58:25 El archivo B1-NombreTestTest.pdf cumple el formato estandar
+2025/07/03 19:58:25 El archivo ACV-NombreApellidoApellido.pdf cumple el formato estandar
+2025/07/03 19:58:25 El archivo ACV-AafasdfaDASFSDf.pdf NO CUMPLE el formato estandar
+2025/07/03 19:58:25 ./lua/organizador.lua:68 ACV-AafasdfaDASFSDf.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:58:25 El archivo ACP-NOMBREAPELLIDOAPLLEIDO.pdf NO CUMPLE el formato estandar
+2025/07/03 19:58:25 ./lua/organizador.lua:68 ACP-NOMBREAPELLIDOAPLLEIDO.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:59:16 El archivo und/dnl NO CUMPLE el formato estandar
+2025/07/03 19:59:16 ./lua/organizador.lua:70 und/dnl El nombre del archivo no cumple el formato estandar
+2025/07/03 19:59:16 El archivo ACV25/ttm NO CUMPLE el formato estandar
+2025/07/03 19:59:16 ./lua/organizador.lua:70 ACV25/ttm El nombre del archivo no cumple el formato estandar
+2025/07/03 19:59:16 El archivo ACV25/see NO CUMPLE el formato estandar
+2025/07/03 19:59:16 ./lua/organizador.lua:70 ACV25/see El nombre del archivo no cumple el formato estandar
+2025/07/03 19:59:16 El archivo ACV25/dnl NO CUMPLE el formato estandar
+2025/07/03 19:59:16 ./lua/organizador.lua:70 ACV25/dnl El nombre del archivo no cumple el formato estandar
+2025/07/03 19:59:16 El archivo ACV25/ttf NO CUMPLE el formato estandar
+2025/07/03 19:59:16 ./lua/organizador.lua:70 ACV25/ttf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:59:16 El archivo ACV25/kil NO CUMPLE el formato estandar
+2025/07/03 19:59:16 ./lua/organizador.lua:70 ACV25/kil El nombre del archivo no cumple el formato estandar
+2025/07/03 19:59:16 El archivo B1/ttm NO CUMPLE el formato estandar
+2025/07/03 19:59:16 ./lua/organizador.lua:70 B1/ttm El nombre del archivo no cumple el formato estandar
+2025/07/03 19:59:16 El archivo B1/see NO CUMPLE el formato estandar
+2025/07/03 19:59:16 ./lua/organizador.lua:70 B1/see El nombre del archivo no cumple el formato estandar
+2025/07/03 19:59:16 El archivo B1/dnl NO CUMPLE el formato estandar
+2025/07/03 19:59:16 ./lua/organizador.lua:70 B1/dnl El nombre del archivo no cumple el formato estandar
+2025/07/03 19:59:16 El archivo B1/kio NO CUMPLE el formato estandar
+2025/07/03 19:59:16 ./lua/organizador.lua:70 B1/kio El nombre del archivo no cumple el formato estandar
+2025/07/03 19:59:16 El archivo B1/mck NO CUMPLE el formato estandar
+2025/07/03 19:59:16 ./lua/organizador.lua:70 B1/mck El nombre del archivo no cumple el formato estandar
+2025/07/03 19:59:16 El archivo B1/ttf NO CUMPLE el formato estandar
+2025/07/03 19:59:16 ./lua/organizador.lua:70 B1/ttf El nombre del archivo no cumple el formato estandar
+2025/07/03 19:59:16 El archivo B1/idaho NO CUMPLE el formato estandar
+2025/07/03 19:59:16 ./lua/organizador.lua:70 B1/idaho El nombre del archivo no cumple el formato estandar
+2025/07/03 19:59:16 El archivo B1/kil NO CUMPLE el formato estandar
+2025/07/03 19:59:16 ./lua/organizador.lua:70 B1/kil El nombre del archivo no cumple el formato estandar
+2025/07/03 19:59:16 El archivo check.sh NO CUMPLE el formato estandar
+2025/07/03 19:59:16 ./lua/organizador.lua:70 check.sh El nombre del archivo no cumple el formato estandar
+2025/07/03 19:59:16 El archivo ACP25/see NO CUMPLE el formato estandar
+2025/07/03 19:59:16 ./lua/organizador.lua:70 ACP25/see El nombre del archivo no cumple el formato estandar
+2025/07/03 19:59:16 El archivo ACP25/dnl NO CUMPLE el formato estandar
+2025/07/03 19:59:16 ./lua/organizador.lua:70 ACP25/dnl El nombre del archivo no cumple el formato estandar
+2025/07/03 19:59:16 El archivo ACP25/mck NO CUMPLE el formato estandar
+2025/07/03 19:59:16 ./lua/organizador.lua:70 ACP25/mck El nombre del archivo no cumple el formato estandar
+2025/07/03 19:59:16 El archivo ACP25/idaho NO CUMPLE el formato estandar
+2025/07/03 19:59:16 ./lua/organizador.lua:70 ACP25/idaho El nombre del archivo no cumple el formato estandar
+2025/07/03 19:59:16 El archivo ACP25/kil NO CUMPLE el formato estandar
+2025/07/03 19:59:16 ./lua/organizador.lua:70 ACP25/kil El nombre del archivo no cumple el formato estandar
+2025/07/03 19:59:16 El archivo tmp/see NO CUMPLE el formato estandar
+2025/07/03 19:59:16 ./lua/organizador.lua:70 tmp/see El nombre del archivo no cumple el formato estandar
+2025/07/03 19:59:16 El archivo tmp/dnl NO CUMPLE el formato estandar
+2025/07/03 19:59:16 ./lua/organizador.lua:70 tmp/dnl El nombre del archivo no cumple el formato estandar
+2025/07/03 19:59:16 El archivo tmp/kio NO CUMPLE el formato estandar
+2025/07/03 19:59:16 ./lua/organizador.lua:70 tmp/kio El nombre del archivo no cumple el formato estandar
+2025/07/03 19:59:16 El archivo tmp/mck NO CUMPLE el formato estandar
+2025/07/03 19:59:16 ./lua/organizador.lua:70 tmp/mck El nombre del archivo no cumple el formato estandar
+2025/07/03 19:59:16 El archivo tmp/idaho NO CUMPLE el formato estandar
+2025/07/03 19:59:16 ./lua/organizador.lua:70 tmp/idaho El nombre del archivo no cumple el formato estandar
+2025/07/03 19:59:16 El archivo tmp/kil NO CUMPLE el formato estandar
+2025/07/03 19:59:16 ./lua/organizador.lua:70 tmp/kil El nombre del archivo no cumple el formato estandar
+2025/07/03 20:11:27 El archivo B1 Nombre APellido Apellido NO CUMPLE el formato estandar
+2025/07/03 20:11:27 ./lua/organizador.lua:70 B1 Nombre APellido Apellido El nombre del archivo no cumple el formato estandar
+2025/07/03 20:11:27 El archivo B1-NombreTestTest.pdf cumple el formato estandar
+2025/07/03 20:11:27 El archivo ACV-NombreApellidoApellido.pdf cumple el formato estandar
+2025/07/03 20:11:27 El archivo ACV-AafasdfaDASFSDf.pdf NO CUMPLE el formato estandar
+2025/07/03 20:11:27 ./lua/organizador.lua:70 ACV-AafasdfaDASFSDf.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 20:11:27 El archivo ACP-NOMBREAPELLIDOAPLLEIDO.pdf NO CUMPLE el formato estandar
+2025/07/03 20:11:27 ./lua/organizador.lua:70 ACP-NOMBREAPELLIDOAPLLEIDO.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 20:11:41 El archivo ACP25-AlbaAlonsoAmor.pdf cumple el formato estandar
+2025/07/03 20:11:41 El archivo ACP25-IzarbeGómezPeña.pdf NO CUMPLE el formato estandar
+2025/07/03 20:11:41 ./lua/organizador.lua:70 ACP25-IzarbeGómezPeña.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 20:11:41 El archivo ACP25-ClaraOportoCaetano.pdf cumple el formato estandar
+2025/07/03 20:11:41 El archivo ACP25-LucíaArenzanaGonzález.pdf NO CUMPLE el formato estandar
+2025/07/03 20:11:41 ./lua/organizador.lua:70 ACP25-LucíaArenzanaGonzález.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 20:11:41 El archivo ACP25-JaraArenzanaGonzález.pdf NO CUMPLE el formato estandar
+2025/07/03 20:11:41 ./lua/organizador.lua:70 ACP25-JaraArenzanaGonzález.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 20:11:41 El archivo ACP25-GuillermoBerrocalDoods.pdf cumple el formato estandar
+2025/07/03 20:11:41 El archivo ACP25-RodrigoGarciaNoguero.pdf cumple el formato estandar
+2025/07/03 20:11:41 El archivo ACP25-JoanCollMendez.pdf cumple el formato estandar
+2025/07/03 20:11:41 El archivo ACP25-AliciaCorederaHonorio.pdf cumple el formato estandar
+2025/07/03 20:11:41 El archivo ACP25-AlejandroMarquezSanchez.pdf cumple el formato estandar
+2025/07/03 20:11:41 El archivo ACP25-SabinaNovilloMorillo.pdf cumple el formato estandar
+2025/07/03 20:11:41 El archivo ACP25-SarahHuddlesonCalle.pdf cumple el formato estandar
+2025/07/03 20:11:41 El archivo ACP25-MiguelGarciaRengel.pdf cumple el formato estandar
+2025/07/03 20:11:41 El archivo ACP25-LucasMazonSaiz.pdf cumple el formato estandar
+2025/07/03 20:11:41 El archivo ACP25-JimenaMayorZarca.pdf cumple el formato estandar
+2025/07/03 20:11:41 El archivo ACP25-ElenaBarcoCastillo.pdf cumple el formato estandar
+2025/07/03 20:11:41 El archivo ACP25-AfricaLopezSanchez.pdf cumple el formato estandar
+2025/07/03 20:11:41 El archivo ACP25-DarioManjonRuano.pdf cumple el formato estandar
+2025/07/03 20:11:41 El archivo ACP25-MiguelPascauSaez.pdf cumple el formato estandar
+2025/07/03 20:11:41 El archivo ACP25-AlbaAyusoRomero.pdf cumple el formato estandar
+2025/07/03 20:13:44 El archivo B1 Nombre APellido Apellido NO CUMPLE el formato estandar
+2025/07/03 20:13:44 ./lua/organizador.lua:70 B1 Nombre APellido Apellido El nombre del archivo no cumple el formato estandar
+2025/07/03 20:13:44 El archivo B1-NombreTestTest.pdf cumple el formato estandar
+2025/07/03 20:13:44 El archivo ACV-NombreApellidoApellido.pdf cumple el formato estandar
+2025/07/03 20:13:44 El archivo ACV-AafasdfaDASFSDf.pdf NO CUMPLE el formato estandar
+2025/07/03 20:13:44 ./lua/organizador.lua:70 ACV-AafasdfaDASFSDf.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 20:13:44 El archivo ACP-NOMBREAPELLIDOAPLLEIDO.pdf NO CUMPLE el formato estandar
+2025/07/03 20:13:44 ./lua/organizador.lua:70 ACP-NOMBREAPELLIDOAPLLEIDO.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 20:15:24 El archivo B1 Nombre APellido Apellido NO CUMPLE el formato estandar
+2025/07/03 20:15:24 ./lua/organizador.lua:61 B1 Nombre APellido Apellido El nombre del archivo no cumple el formato estandar
+2025/07/03 20:15:24 El archivo B1-NombreTestTest.pdf cumple el formato estandar
+2025/07/03 20:15:24 El archivo ACV-NombreApellidoApellido.pdf cumple el formato estandar
+2025/07/03 20:15:24 El archivo ACV-AafasdfaDASFSDf.pdf NO CUMPLE el formato estandar
+2025/07/03 20:15:24 ./lua/organizador.lua:61 ACV-AafasdfaDASFSDf.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 20:15:24 El archivo ACP-NOMBREAPELLIDOAPLLEIDO.pdf NO CUMPLE el formato estandar
+2025/07/03 20:15:24 ./lua/organizador.lua:61 ACP-NOMBREAPELLIDOAPLLEIDO.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 20:17:28 El archivo B1 Nombre APellido Apellido NO CUMPLE el formato estandar
+2025/07/03 20:17:28 ./lua/organizador.lua:61 B1 Nombre APellido Apellido El nombre del archivo no cumple el formato estandar
+2025/07/03 20:17:28 El archivo B1-NombreTestTest.pdf cumple el formato estandar
+2025/07/03 20:17:28 El archivo ACV-NombreApellidoApellido.pdf cumple el formato estandar
+2025/07/03 20:17:28 El archivo ACV-AafasdfaDASFSDf.pdf NO CUMPLE el formato estandar
+2025/07/03 20:17:28 ./lua/organizador.lua:61 ACV-AafasdfaDASFSDf.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 20:17:28 El archivo ACP-NOMBREAPELLIDOAPLLEIDO.pdf NO CUMPLE el formato estandar
+2025/07/03 20:17:28 ./lua/organizador.lua:61 ACP-NOMBREAPELLIDOAPLLEIDO.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 20:17:34 El archivo ACP25-AlbaAlonsoAmor.pdf cumple el formato estandar
+2025/07/03 20:17:34 El archivo ACP25-IzarbeGómezPeña.pdf NO CUMPLE el formato estandar
+2025/07/03 20:17:34 ./lua/organizador.lua:61 ACP25-IzarbeGómezPeña.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 20:17:34 El archivo ACP25-ClaraOportoCaetano.pdf cumple el formato estandar
+2025/07/03 20:17:34 El archivo ACP25-LucíaArenzanaGonzález.pdf NO CUMPLE el formato estandar
+2025/07/03 20:17:34 ./lua/organizador.lua:61 ACP25-LucíaArenzanaGonzález.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 20:17:34 El archivo ACP25-JaraArenzanaGonzález.pdf NO CUMPLE el formato estandar
+2025/07/03 20:17:34 ./lua/organizador.lua:61 ACP25-JaraArenzanaGonzález.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 20:17:34 El archivo ACP25-GuillermoBerrocalDoods.pdf cumple el formato estandar
+2025/07/03 20:17:34 El archivo ACP25-RodrigoGarciaNoguero.pdf cumple el formato estandar
+2025/07/03 20:17:34 El archivo ACP25-JoanCollMendez.pdf cumple el formato estandar
+2025/07/03 20:17:34 El archivo ACP25-AliciaCorederaHonorio.pdf cumple el formato estandar
+2025/07/03 20:17:34 El archivo ACP25-AlejandroMarquezSanchez.pdf cumple el formato estandar
+2025/07/03 20:17:34 El archivo ACP25-SabinaNovilloMorillo.pdf cumple el formato estandar
+2025/07/03 20:17:34 El archivo ACP25-SarahHuddlesonCalle.pdf cumple el formato estandar
+2025/07/03 20:17:34 El archivo ACP25-MiguelGarciaRengel.pdf cumple el formato estandar
+2025/07/03 20:17:34 El archivo ACP25-LucasMazonSaiz.pdf cumple el formato estandar
+2025/07/03 20:17:34 El archivo ACP25-JimenaMayorZarca.pdf cumple el formato estandar
+2025/07/03 20:17:34 El archivo ACP25-ElenaBarcoCastillo.pdf cumple el formato estandar
+2025/07/03 20:17:34 El archivo ACP25-AfricaLopezSanchez.pdf cumple el formato estandar
+2025/07/03 20:17:34 El archivo ACP25-DarioManjonRuano.pdf cumple el formato estandar
+2025/07/03 20:17:34 El archivo ACP25-MiguelPascauSaez.pdf cumple el formato estandar
+2025/07/03 20:17:34 El archivo ACP25-AlbaAyusoRomero.pdf cumple el formato estandar
+2025/07/03 20:17:45 El archivo TEA-PabloAyusoRomero.pdf cumple el formato estandar
+2025/07/03 20:17:45 El archivo ACV25-CandelaMartinDeLaTorre.pdf NO CUMPLE el formato estandar
+2025/07/03 20:17:45 ./lua/organizador.lua:61 ACV25-CandelaMartinDeLaTorre.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 20:17:45 El archivo ACV25-HugoPonceRodrigez.pdf cumple el formato estandar
+2025/07/03 20:17:45 El archivo ACV25-AngelaPonceRodrigez.pdf cumple el formato estandar
+2025/07/03 20:17:45 El archivo ACV25-LuciaArenzanaGonzalez.pdf cumple el formato estandar
+2025/07/03 20:17:45 El archivo ACV25-TelmaTureganoAlonso.pdf cumple el formato estandar
+2025/07/03 20:17:45 El archivo ACV25-IzarbeGomezPeña.pdf NO CUMPLE el formato estandar
+2025/07/03 20:17:45 ./lua/organizador.lua:61 ACV25-IzarbeGomezPeña.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 20:17:45 El archivo ACV25-JaraArenzanaGonzalez.pdf cumple el formato estandar
+2025/07/03 20:17:45 El archivo ACV25-MaryamEchchaabiBarrio.pdf cumple el formato estandar
+2025/07/03 20:17:45 El archivo ACV25-AlbaAlonsoAmor.pdf cumple el formato estandar
+2025/07/03 20:17:45 El archivo ACV2025-AlbertoGonzalezGonzalez.pdf cumple el formato estandar
+2025/07/03 20:17:45 El archivo ACV2025_MatildeSintayhuGilBalanca.pdf NO CUMPLE el formato estandar
+2025/07/03 20:17:45 ./lua/organizador.lua:61 ACV2025_MatildeSintayhuGilBalanca.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 20:17:45 El archivo ACV2025_GuillermoBerrocalDoods.pdf NO CUMPLE el formato estandar
+2025/07/03 20:17:45 ./lua/organizador.lua:61 ACV2025_GuillermoBerrocalDoods.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 20:17:45 El archivo ACV2025-PabloAyusoRomero.pdf cumple el formato estandar
+2025/07/03 20:17:45 El archivo ACV2025-RodrigoGaliciaNoguero.pdf cumple el formato estandar
+2025/07/03 20:17:45 El archivo ACV2025-OliviaAthinaZervosMontes.pdf NO CUMPLE el formato estandar
+2025/07/03 20:17:45 ./lua/organizador.lua:61 ACV2025-OliviaAthinaZervosMontes.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 20:17:45 El archivo ACV25-JuneGomezPeña.pdf NO CUMPLE el formato estandar
+2025/07/03 20:17:45 ./lua/organizador.lua:61 ACV25-JuneGomezPeña.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 20:17:45 El archivo ACV25-JairoTuregano.pdf NO CUMPLE el formato estandar
+2025/07/03 20:17:45 ./lua/organizador.lua:61 ACV25-JairoTuregano.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 20:17:45 El archivo ACV25-LeylaEchchaabi.pdf NO CUMPLE el formato estandar
+2025/07/03 20:17:45 ./lua/organizador.lua:61 ACV25-LeylaEchchaabi.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 20:17:45 El archivo ACV25-TaniaGalindo.pdf NO CUMPLE el formato estandar
+2025/07/03 20:17:45 ./lua/organizador.lua:61 ACV25-TaniaGalindo.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 20:17:45 El archivo ACV25-SamuelGalicia.pdf NO CUMPLE el formato estandar
+2025/07/03 20:17:45 ./lua/organizador.lua:61 ACV25-SamuelGalicia.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 20:17:45 El archivo ACV_AlbaAyusoRomero.pdf NO CUMPLE el formato estandar
+2025/07/03 20:17:45 ./lua/organizador.lua:61 ACV_AlbaAyusoRomero.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 20:17:45 El archivo ACV_DarioManjonRuano.pdf NO CUMPLE el formato estandar
+2025/07/03 20:17:45 ./lua/organizador.lua:61 ACV_DarioManjonRuano.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 20:17:45 El archivo B1-AlanDelEgidoAranda.pdf NO CUMPLE el formato estandar
+2025/07/03 20:17:45 ./lua/organizador.lua:61 B1-AlanDelEgidoAranda.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 20:17:45 El archivo B1-JaraAreanzaGonzalez.pdf cumple el formato estandar
+2025/07/03 20:17:45 El archivo B1-IzarbeGomezPeña.pdf NO CUMPLE el formato estandar
+2025/07/03 20:17:45 ./lua/organizador.lua:61 B1-IzarbeGomezPeña.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 20:17:45 El archivo B1-LuciaArenzanaGonzalez.pdf cumple el formato estandar
+2025/07/03 20:17:45 El archivo B1-DarioMartinezMateos.pdf cumple el formato estandar
+2025/07/03 20:17:45 El archivo B1-AlbertoGonzalezGonzalez.pdf cumple el formato estandar
+2025/07/03 20:17:45 El archivo B1-AlejandroMarquezSanchez.pdf cumple el formato estandar
+2025/07/03 20:17:45 El archivo B1-ManuelArandaBlanco.pdf cumple el formato estandar
+2025/07/03 20:17:45 El archivo B1-SabinaNovilloMorillo.pdf cumple el formato estandar
+2025/07/03 20:17:45 El archivo B1-RodrigoGaliciaNoguero.pdf cumple el formato estandar
+2025/07/03 20:17:45 El archivo B1-AitanaGarciaSaez.pdf cumple el formato estandar
+2025/07/03 20:17:45 El archivo B1-LucasMazonSaiz.pdf cumple el formato estandar
+2025/07/03 20:17:45 El archivo B1-MiguelGarciaRengel.pdf cumple el formato estandar
+2025/07/03 20:17:45 El archivo B1-SarahHuddlesonCalle.pdf cumple el formato estandar
+2025/07/03 20:17:45 El archivo B1-RocioCastrilloMora.pdf cumple el formato estandar
+2025/07/03 20:17:45 El archivo B1-JimenaArandaBlanco.pdf cumple el formato estandar
+2025/07/03 20:17:45 El archivo B1-TaniaGalindoPecesBarba.pdf NO CUMPLE el formato estandar
+2025/07/03 20:17:45 ./lua/organizador.lua:61 B1-TaniaGalindoPecesBarba.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 20:17:45 El archivo B1-SamuelGaliciaNoguero.pdf cumple el formato estandar
+2025/07/03 20:17:45 El archivo TER-IvanGalindoPecesBarba.pdf NO CUMPLE el formato estandar
+2025/07/03 20:17:45 ./lua/organizador.lua:61 TER-IvanGalindoPecesBarba.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 20:17:45 El archivo TER-MateoBlancoRe.pdf cumple el formato estandar
+2025/07/03 20:17:45 El archivo B1-JuneGomezPeña.pdf NO CUMPLE el formato estandar
+2025/07/03 20:17:45 ./lua/organizador.lua:61 B1-JuneGomezPeña.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 20:17:45 El archivo B1-MateoBlancoRe.pdf cumple el formato estandar
+2025/07/03 20:17:45 El archivo B1-MiguelPascauSaez.pdf cumple el formato estandar
+2025/07/03 20:17:45 El archivo B1-IvanGalindoPecesBarba.pdf NO CUMPLE el formato estandar
+2025/07/03 20:17:45 ./lua/organizador.lua:61 B1-IvanGalindoPecesBarba.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 20:17:45 El archivo B1-AdaSevillaHernández.pdf NO CUMPLE el formato estandar
+2025/07/03 20:17:45 ./lua/organizador.lua:61 B1-AdaSevillaHernández.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 20:17:45 El archivo B1-CarmelaBartolomeMontoya.pdf cumple el formato estandar
+2025/07/03 20:17:45 El archivo B1-DanielaYañezSevilla.pdf NO CUMPLE el formato estandar
+2025/07/03 20:17:45 ./lua/organizador.lua:61 B1-DanielaYañezSevilla.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 20:17:45 El archivo check.sh NO CUMPLE el formato estandar
+2025/07/03 20:17:45 ./lua/organizador.lua:61 check.sh El nombre del archivo no cumple el formato estandar
+2025/07/03 20:17:45 El archivo ACP25-AlbaAlonsoAmor.pdf cumple el formato estandar
+2025/07/03 20:17:45 El archivo ACP25-IzarbeGómezPeña.pdf NO CUMPLE el formato estandar
+2025/07/03 20:17:45 ./lua/organizador.lua:61 ACP25-IzarbeGómezPeña.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 20:17:45 El archivo ACP25-ClaraOportoCaetano.pdf cumple el formato estandar
+2025/07/03 20:17:45 El archivo ACP25-LucíaArenzanaGonzález.pdf NO CUMPLE el formato estandar
+2025/07/03 20:17:45 ./lua/organizador.lua:61 ACP25-LucíaArenzanaGonzález.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 20:17:45 El archivo ACP25-JaraArenzanaGonzález.pdf NO CUMPLE el formato estandar
+2025/07/03 20:17:45 ./lua/organizador.lua:61 ACP25-JaraArenzanaGonzález.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 20:17:45 El archivo ACP25-GuillermoBerrocalDoods.pdf cumple el formato estandar
+2025/07/03 20:17:45 El archivo ACP25-RodrigoGarciaNoguero.pdf cumple el formato estandar
+2025/07/03 20:17:45 El archivo ACP25-JoanCollMendez.pdf cumple el formato estandar
+2025/07/03 20:17:45 El archivo ACP25-AliciaCorederaHonorio.pdf cumple el formato estandar
+2025/07/03 20:17:45 El archivo ACP25-AlejandroMarquezSanchez.pdf cumple el formato estandar
+2025/07/03 20:17:45 El archivo ACP25-SabinaNovilloMorillo.pdf cumple el formato estandar
+2025/07/03 20:17:45 El archivo ACP25-SarahHuddlesonCalle.pdf cumple el formato estandar
+2025/07/03 20:17:45 El archivo ACP25-MiguelGarciaRengel.pdf cumple el formato estandar
+2025/07/03 20:17:45 El archivo ACP25-LucasMazonSaiz.pdf cumple el formato estandar
+2025/07/03 20:17:45 El archivo ACP25-JimenaMayorZarca.pdf cumple el formato estandar
+2025/07/03 20:17:45 El archivo ACP25-ElenaBarcoCastillo.pdf cumple el formato estandar
+2025/07/03 20:17:45 El archivo ACP25-AfricaLopezSanchez.pdf cumple el formato estandar
+2025/07/03 20:17:45 El archivo ACP25-DarioManjonRuano.pdf cumple el formato estandar
+2025/07/03 20:17:45 El archivo ACP25-MiguelPascauSaez.pdf cumple el formato estandar
+2025/07/03 20:17:45 El archivo ACP25-AlbaAyusoRomero.pdf cumple el formato estandar
+2025/07/03 20:17:45 El archivo B1 Nombre APellido Apellido NO CUMPLE el formato estandar
+2025/07/03 20:17:45 ./lua/organizador.lua:61 B1 Nombre APellido Apellido El nombre del archivo no cumple el formato estandar
+2025/07/03 20:17:45 El archivo B1-NombreTestTest.pdf cumple el formato estandar
+2025/07/03 20:17:45 El archivo ACV-NombreApellidoApellido.pdf cumple el formato estandar
+2025/07/03 20:17:45 El archivo ACV-AafasdfaDASFSDf.pdf NO CUMPLE el formato estandar
+2025/07/03 20:17:45 ./lua/organizador.lua:61 ACV-AafasdfaDASFSDf.pdf El nombre del archivo no cumple el formato estandar
+2025/07/03 20:17:45 El archivo ACP-NOMBREAPELLIDOAPLLEIDO.pdf NO CUMPLE el formato estandar
+2025/07/03 20:17:45 ./lua/organizador.lua:61 ACP-NOMBREAPELLIDOAPLLEIDO.pdf El nombre del archivo no cumple el formato estandar

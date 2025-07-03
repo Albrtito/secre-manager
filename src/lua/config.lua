@@ -27,11 +27,9 @@ local config = {
 	path_sm = normalize_path(path),
 	-- Direccion de la carpeta de sensible
 
-	path_sensible = path .. "/../../../Shared drives/00. Sensible/",
 	-- Dirección a la carpeta de la docu de educandos
 	path_edu = "/Users/tito/Library/CloudStorage/GoogleDrive-secretaria@scouts217.com/Shared drives/00. Sensible/00-DocumentacionEducandos",
 	-- Dirección a la carpeta de logs
-	path_logs = path .. "/logs/",
 
 	-- cuentas mail
 	mail_secre = "secretaria@scouts217.com",
@@ -39,10 +37,8 @@ local config = {
 
 	-- otros
 	ronda_solar = utils.get_ronda_solar(),
-    
-    -- BUG: Error en el patrón, admite cosa como ACP-ALbertoPAscauSAez.pdf
-	-- Patrón que siguen los nombres de cada archivo
-	patron = "^[a-zA-Z0-9]*%-[A-Z][a-zA-Z0-9]*%.[a-zA-Z0-9]+$",
-}
 
+	--WARNING: Este patron habriá que comprobarlo con testing o algo
+	patron = "^[%u%d]+%-%u%l+%u%l+%u%l+%.%a+$",
+}
 return config
